@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<url>
+  <loc>http://v2.ivorytechnologies.com/</loc>
+  <lastmod>2023-06-22T03:59:42+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://v2.ivorytechnologies.com/about</loc>
+  <lastmod>2023-06-22T03:59:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://v2.ivorytechnologies.com/works</loc>
+  <lastmod>2023-06-22T03:59:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://v2.ivorytechnologies.com/service</loc>
+  <lastmod>2023-06-22T03:59:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://v2.ivorytechnologies.com/technologies</loc>
+  <lastmod>2023-06-22T03:59:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://v2.ivorytechnologies.com/industries</loc>
+  <lastmod>2023-06-22T03:59:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://v2.ivorytechnologies.com/skillset</loc>
+  <lastmod>2023-06-22T03:59:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://v2.ivorytechnologies.com/contact</loc>
+  <lastmod>2023-06-22T03:59:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://v2.ivorytechnologies.com/career</loc>
+  <lastmod>2023-06-22T03:59:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://v2.ivorytechnologies.com/blog</loc>
+  <lastmod>2023-06-22T03:59:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://v2.ivorytechnologies.com/index</loc>
+  <lastmod>2023-06-22T03:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://v2.ivorytechnologies.com/clients</loc>
+  <lastmod>2023-06-22T03:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+</urlset>
